@@ -19,6 +19,7 @@ Now I'm studying at RS School on the JS / Front-end course, Stage 1.
 * HTML
 * CSS
 * GIT/GitHub
+* Javascript
 
 # Code examples:
 * function multiply (a, b) {
